@@ -37,7 +37,7 @@ class MyApplication(QWidget):
         self.init_ui()
         self.table_view.setStyleSheet(style_sheet)
 
-    def extract_colors(self, image_path, num_colors=3):
+    def extract_colors(self, image_path, num_colors=2):
         model = torch.hub.load('ultralytics/yolov5', 'yolov5s')
         image = cv2.imread(image_path)
         image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)

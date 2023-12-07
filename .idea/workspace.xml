@@ -5,62 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd86a7ab-00ab-4a8c-a7a2-8bc76a97aa52" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Datasets/images/00016_r.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/00017_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/00017_g.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/00017_r.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/00018_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/HondaNSX.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/large-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Datasets/images/toyotaPrius.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00003.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00003.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00005.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00005.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00008.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00008.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00010.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00010.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00011.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00011.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00016.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00016.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00017.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00018.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00018.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00022.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00022.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00023.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00023.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00024.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00024.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00026.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00026.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00027.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00027.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00028.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00029.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00029.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00033.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00033.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00042.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00042.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00046.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00046.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00048.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00048.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00049.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00049.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00050.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00050.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00052.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00052.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00053.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00053.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00054.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00054.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00055.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00055.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00060.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00060.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00061.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00061.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00065.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00065.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00066.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00066.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00068.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00068.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00071.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00071.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00077.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00077.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00081.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00081.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00086.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00086.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00088.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00088.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00090.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00090.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00091.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00091.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00094.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00094.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00095.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00095.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00096.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00096.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00097.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00097.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00099.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00099.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/Datasets/images/00100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/view/Datasets/images/00100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/AiTest/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/ModalWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/view/ModalWindow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/Test2Window.py" beforeDir="false" afterPath="$PROJECT_DIR$/view/Test2Window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/mainWindow.py" beforeDir="false" afterPath="$PROJECT_DIR$/view/mainWindow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/output.csv" beforeDir="false" afterPath="$PROJECT_DIR$/view/output.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "Merging master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nosferatu\PycharmProjects\WipeMyTearsCV\Datasets" />
